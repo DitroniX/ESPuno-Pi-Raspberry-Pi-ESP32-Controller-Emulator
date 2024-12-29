@@ -7,3 +7,8 @@
 Rather than being Quad-core ARM CPU based, **ESPuno Pi** is Espressif ESP32 based.
 
 *Further details to follow. *
+
+
+
+
+(C) 1981-2025 DitroniX | Dave Williams | G8PUO
