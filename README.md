@@ -1,4 +1,4 @@
-# ESPuno-Pi-Raspberry-Pi-ESP32-Controller-Emulator
+# ESPuno Pi - Raspberry Pi ESP32 Controller Emulator
 
 **ESPuno Pi** a new STEM board for Q1 2025, incorporating a Raspberry Pi ESP32 Controller and Emulator in a single board.
 
