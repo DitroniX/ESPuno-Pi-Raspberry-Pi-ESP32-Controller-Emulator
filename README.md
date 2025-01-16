@@ -2,6 +2,10 @@
 
 This **ESPuno Pi** is a new concept board based on the Epsressif ESP32 series MCU's but in a compact Raspberry Pi form factor.
 
+**Launching in Feburary on KickStarter!**
+[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
+
+
 ![ESPuno Pi - Espressif MCUs](https://github.com/DitroniX/DitroniX/blob/main/Files/ESPuno%20Pi%20-Block%20Diagram%20-%20PreRelease%20Information.jpg)
 
 A number of features have been included on the board in order to make this as flexible as possible for the STEM and maker community and also Multimedia users.
