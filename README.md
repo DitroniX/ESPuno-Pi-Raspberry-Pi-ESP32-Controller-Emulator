@@ -1,6 +1,10 @@
 ## ESPuno Pi 
 
-This **ESPuno Pi** is a new concept board based on the Epsressif ESP32 series MCU's but in a compact Raspberry Pi form factor.
+This **ESPuno Pi** is a new concept board based on the Epsressif ESP32 series MCU's but in a compact Raspberry Pi form factor.  This design follows on from the [**ESPuno Pi Zero**](https://github.com/DitroniX/ESPuno-Pi-Zero_WiFi-BT-Zigbee-Thread-60V) design.
+
+**Raspberry Pi Emulator**
+
+The **ESPuno Pi**, is a pin compatible Raspberry Pi ESP32 Controller and Emulator in a single board.  The Raspberry Pi GPIO's are controlled and driven from the ESP32-S3 or ESP32-P4, so bringing Raspberry Pi PiHat's and Breakout boards to the Arduino Embedded controller world.
 
 **Launching in Feburary on KickStarter!**
 [![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
